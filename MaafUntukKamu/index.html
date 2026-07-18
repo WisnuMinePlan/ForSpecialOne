@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Untuk Ajeng ❤️</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+    <!-- AOS Animation -->
+    <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css">
+
+    <!-- Confetti -->
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
+
+</head>
+
+<body>
+
+    <!-- Musik -->
+    <audio id="bgm" loop>
+        <source src="music/lagu.mp3" type="audio/mpeg">
+    </audio>
+
+    <!-- Background -->
+    <div id="stars"></div>
+    <div id="petals"></div>
+
+    <!-- Cover -->
+    <section class="hero">
+
+        <img src="images/cover.jpg" class="cover">
+
+        <h1>Untuk Ajeng Febyola Putri Arina ❤️</h1>
+
+        <p>
+            Sebuah website kecil...
+            <br>
+            Yang dibuat khusus untuk seseorang yang sangat berarti bagiku.
+        </p>
+
+        <button id="startButton">
+
+            <i class="fa-solid fa-heart"></i>
+
+            Buka Surat
+
+        </button>
+
+    </section>
+
+    <!-- Countdown -->
+
+    <section class="countdown" data-aos="fade-up">
+
+        <h2>⏳ Kita Sudah Bersama</h2>
+
+        <h1 id="timer"></h1>
+
+    </section>
+
+    <!-- Galeri -->
+
+    <section class="gallery" data-aos="fade-up">
+
+        <h2>📸 Kenangan Kita</h2>
+
+        <div class="gallery-grid">
+
+            <img src="images/1.jpg">
+
+            <img src="images/2.jpg">
+
+            <img src="images/3.jpg">
+
+            <img src="images/4.jpg">
+
+            <img src="images/5.jpg">
+
+        </div>
+
+    </section>
+
+    <!-- Surat -->
+
+    <section class="letter hidden">
+
+        <div class="card">
+
+            <h2>💌 Surat Pertama</h2>
+
+            <p class="typing" id="typing1"></p>
+
+        </div>
+
+    </section>
+
+    <section class="letter hidden">
+
+        <div class="card">
+
+            <h2>❤️ Surat Kedua</h2>
+
+            <p>
+
+                Terima kasih...
+
+                karena selalu bertahan.
+
+                Karena selalu memilih aku.
+
+                Karena tetap percaya walaupun
+
+                aku sering membuatmu kecewa.
+
+            </p>
+
+        </div>
+
+    </section>
+
+    <section class="letter hidden">
+
+        <div class="card">
+
+            <h2>🌹 Surat Ketiga</h2>
+
+            <p>
+
+                Aku tidak ingin menjadi pasangan yang sempurna.
+
+                Tapi aku ingin menjadi seseorang
+
+                yang terus belajar agar bisa membuatmu
+
+                tersenyum setiap hari.
+
+            </p>
+
+        </div>
+
+    </section>
+
+    <!-- Tombol -->
+
+    <section class="forgive">
+
+        <h1>❤️</h1>
+
+        <h2>Maukah Kamu Memaafkanku?</h2>
+
+        <button id="forgiveButton">
+
+            Iya, Aku Maafin ❤️
+
+        </button>
+
+        <h2 id="result"></h2>
+
+    </section>
+
+    <!-- Penutup -->
+
+    <section class="ending">
+
+        <h1>
+
+            Terima kasih...
+
+        </h1>
+
+        <p>
+
+            Karena sampai hari ini
+
+            kamu masih memilihku.
+
+            Aku akan terus berusaha
+
+            menjadi seseorang
+
+            yang pantas untuk dicintai.
+
+        </p>
+
+    </section>
+
+    <!-- Lightbox -->
+
+    <div id="lightbox">
+
+        <span id="close">&times;</span>
+
+        <img id="lightbox-img">
+
+    </div>
+
+    <!-- Script -->
+
+    <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+
+    <script>
+
+        AOS.init();
+
+    </script>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
