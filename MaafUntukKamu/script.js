@@ -62,21 +62,23 @@ setInterval(updateTimer,1000);
 
 const text = `
 
-Hai Sayang...
+Hai sayangku, Ajeng Febyola Putri Arina. ❤️
 
-Aku tahu mungkin aku membuatmu kecewa.
+Aku ingin meminta maaf dari lubuk hatiku yang paling dalam karena semalam aku tertidur dan tidak bisa menemani kamu. Aku tahu mungkin kamu menunggu, ingin bercerita, atau sekadar ingin ditemani sampai kamu terlelap. Maaf karena aku membuatmu merasa sendiri.
 
-Aku minta maaf karena tidak bisa menjadi sempurna.
+Bukan karena aku tidak peduli, bukan karena aku bosan, dan sama sekali bukan karena aku tidak ingin bersamamu. Semalam tubuhku benar-benar kelelahan setelah menjalani hari yang panjang, hingga tanpa sadar aku tertidur.
 
-Tetapi satu hal yang selalu ingin kamu tahu...
+Kalau saja aku masih punya tenaga, tentu aku akan memilih tetap terjaga untuk menemani kamu. Karena bagiku, menghabiskan waktu bersamamu selalu menjadi bagian terbaik dari hariku.
 
-Aku tidak pernah berhenti mencintaimu.
+Aku mengerti kalau kamu merasa kecewa atau bahkan marah. Perasaanmu itu wajar, dan aku tidak ingin mencari alasan untuk membenarkan kesalahanku. Aku hanya ingin kamu tahu bahwa aku benar-benar menyesal telah membuatmu merasa tidak diprioritaskan.
 
-Terima kasih karena selalu memilih bertahan.
+Terima kasih karena selama ini kamu selalu sabar menghadapi segala kekuranganku. Terima kasih karena tetap memilih bertahan, bahkan ketika aku belum bisa menjadi pasangan yang sempurna.
 
-Aku akan terus belajar menjadi seseorang yang pantas untukmu.
+Aku berjanji akan berusaha lebih baik lagi. Aku akan lebih memperhatikan waktu, menjaga tenagaku, dan sebisa mungkin tidak mengulangi hal yang membuatmu sedih seperti ini.
 
-Aku sayang kamu.
+Semoga kamu bisa memaafkan aku, sayang. Karena di antara semua hal yang aku miliki, senyummu adalah hal yang paling ingin aku jaga.
+
+Aku sayang kamu, hari ini, besok, dan selama yang Allah izinkan.
 
 ❤️
 
